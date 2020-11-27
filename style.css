@@ -93,9 +93,6 @@ align-self: center;
 .page-description {
     font-size: 16px;
     line-height: 24px;
-}
-
-.page-description.max {
     text-align: center;
     color: #3E4345;
     margin-top: 16px;
